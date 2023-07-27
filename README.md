@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Christopher Wyatt
+### Hi there 👋 my name is Christopher Wyatt an aspiring IT professional
 
 <!--
 **maddoxw85/maddoxw85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
