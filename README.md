@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://i.imgur.com/6yIdE1j.png) In this screenshot i have created the environment to support my os ticket. Both the resource group and virtual machine.
+  - [osTicket: Prerequisites and Installation](https://i.imgur.com/6yIdE1j.png) In the first screenshot i have created the environment to support my os ticket. Both the resource group and virtual machine. (https://i.imgur.com/jccfjm6.png) In the second shot i have remotely connected into my virtual machine desktop.
   - [osTicket: Post-Installation Configuration](https://www.youtube.com/watch?v=4kEQtECcO-U&pp=ygUpb3NUaWNrZXQ6IFBvc3QtSW5zdGFsbGF0aW9uIENvbmZpZ3VyYXRpb24%)
   - [osTicket: Ticket Lifecycle Examples](https://www.youtube.com/watch?v=1VjIhdIgM2k&pp=ygUjb3NUaWNrZXQ6IFRpY2tldCBMaWZlY3ljbGUgRXhhbXBsZXM%3D)
 - <b>Microsoft Azure</b>
