@@ -11,7 +11,7 @@
 
 
 
-  - [osTicket: Ticket Lifecycle Examples](https://www.youtube.com/watch?![image](https://github.com/maddoxw85/maddoxw85/assets/140563446/6c57beae-f0e6-4c93-a058-a24a2babc681)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/maddoxw85/maddoxw85/assets/140563446/6c57beae-f0e6-4c93-a058-a24a2babc681)
 v=1VjIhdIgM2k&pp=ygUjb3NUaWNrZXQ6IFRpY2tldCBMaWZlY3ljbGUgRXhhbXBsZXM%3D)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=lzHRxxSmQXc&pp=ygVAaG93IHRvIGRlcGxveSBvbiBwcmVtaXNlcyBhY3RpdmUgZGlyZWN0b3J5IHdpdGhpbiBhenVyZSBjb21wdXRlIA%3D%3D)
