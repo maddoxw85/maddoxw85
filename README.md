@@ -11,8 +11,8 @@
 
 
 
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/maddoxw85/maddoxw85/assets/140563446/6c57beae-f0e6-4c93-a058-a24a2babc681)
-v=1VjIhdIgM2k&pp=ygUjb3NUaWNrZXQ6IFRpY2tldCBMaWZlY3ljbGUgRXhhbXBsZXM%3D)
+  - [osTicket: Ticket Lifecycle Examples](https://i.imgur.com/XdR8stM.png) The screen an end user would access in order to submit a new ticket. (https://github.com/maddoxw85/maddoxw85/assets/140563446/8f85502f-bda1-4280-ac22-0944b7c2d06e) Now logged in as the system administrator that i created.
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=lzHRxxSmQXc&pp=ygVAaG93IHRvIGRlcGxveSBvbiBwcmVtaXNlcyBhY3RpdmUgZGlyZWN0b3J5IHdpdGhpbiBhenVyZSBjb21wdXRlIA%3D%3D)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://www.youtube.com/watch?v=Mu_2UnOdVHM&pp=ygU_IEF6dXJlIFZpcnR1YWwgTWFjaGluZXMsIFdpcmVzaGFyaywgYW5kIE5ldHdvcmsgU2VjdXJpdHkgR3JvdXBz)
