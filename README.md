@@ -16,7 +16,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://i.imgur.com/cqfR3A1.png) At this point i have my client and my server virtual machines created and my client can not ping the server because we have yet to allow ICMP protocol access.
+  - [Configuring On-premises Active Directory within Azure VMs](https://i.imgur.com/cqfR3A1.png) At this point i have my client and my server virtual machines created and my client can not ping the server because we have yet to allow ICMP protocol access. (https://i.imgur.com/9DqqTQ5.png) I have just enabled ICMPv4 inbound traffic on my servers virtual cpu. Therfore now i should be able send a to ping from from my client. (https://i.imgur.com/nR6w5jJ.png) I am now receiving a reply to my ping from client to my server. 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://www.youtube.com/watch?v=Mu_2UnOdVHM&pp=ygU_IEF6dXJlIFZpcnR1YWwgTWFjaGluZXMsIFdpcmVzaGFyaywgYW5kIE5ldHdvcmsgU2VjdXJpdHkgR3JvdXBz)
 
 <h2>🤳Connect with me:</h2>
