@@ -12,7 +12,7 @@
 
 
   - [osTicket: Ticket Lifecycle Examples](https://i.imgur.)com/XdR8stM.png) Log in screen (https://i.imgur.com/0Uygn8h.png) This second screenshot is of the screen an end user would access in order to submit a new ticket.  (https://i.imgur.com/UYSi9RQ.png) 
- (https://github.com/maddoxw85/maddoxw85/assets/140563446/8f85502f-bda1-4280-ac22-0944b7c2d06e) Iam now logged in as the system administrator that i created. (https://i.imgur.com/rQn0qaM.png) In this slide i am in the process of creating a new sample ticket. (https://i.imgur.com/DgSvjAA.png) After creating several sample tickets to solve and clear. (https://i.imgur.com/E99YkGb.png) Sample ticket opened. (https://i.imgur.com/VfO1Oov.png) Sample ticket with notes from helpdesk professional and status has been changed from open to resolved.
+ (https://github.com/maddoxw85/maddoxw85/assets/140563446/8f85502f-bda1-4280-ac22-0944b7c2d06e) Iam now logged in as the system administrator that i created. (https://i.imgur.com/rQn0qaM.png) In this slide i am in the process of creating a new sample ticket. (https://i.imgur.com/DgSvjAA.png) After creating several sample tickets to solve and clear. (https://i.imgur.com/E99YkGb.png) Sample ticket opened. (https://i.imgur.com/VfO1Oov.png) Sample ticket with notes from helpdesk professional and status has been changed from open to resolved. (https://i.imgur.com/BqA4FB0.png) Sample ticket that has to be transferred to another dept to be resolved.
 
 
 - <b>Microsoft Azure</b>
