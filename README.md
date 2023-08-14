@@ -11,7 +11,8 @@
 
 
 
-  - [osTicket: Ticket Lifecycle Examples](https://i.imgur.)com/XdR8stM.png) Log in screen (https://i.imgur.com/0Uygn8h.png) This second screenshot is of the screen an end user would access in order to submit a new ticket. (https://github.com/maddoxw85/maddoxw85/assets/140563446/8f85502f-bda1-4280-ac22-0944b7c2d06e) Iam now logged in as the system administrator that i created.
+  - [osTicket: Ticket Lifecycle Examples](https://i.imgur.)com/XdR8stM.png) Log in screen (https://i.imgur.com/0Uygn8h.png) This second screenshot is of the screen an end user would access in order to submit a new ticket.  (https://i.imgur.com/UYSi9RQ.png) 
+ (https://github.com/maddoxw85/maddoxw85/assets/140563446/8f85502f-bda1-4280-ac22-0944b7c2d06e) Iam now logged in as the system administrator that i created.
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=lzHRxxSmQXc&pp=ygVAaG93IHRvIGRlcGxveSBvbiBwcmVtaXNlcyBhY3RpdmUgZGlyZWN0b3J5IHdpdGhpbiBhenVyZSBjb21wdXRlIA%3D%3D)
