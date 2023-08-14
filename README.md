@@ -16,7 +16,7 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://www.youtube.com/watch?v=lzHRxxSmQXc&pp=ygVAaG93IHRvIGRlcGxveSBvbiBwcmVtaXNlcyBhY3RpdmUgZGlyZWN0b3J5IHdpdGhpbiBhenVyZSBjb21wdXRlIA%3D%3D)
+  - [Configuring On-premises Active Directory within Azure VMs](https://i.imgur.com/cqfR3A1.png) At this point i have my client and my server virtual machines created and my client can not ping the server because we have yet to allow ICMP protocol access.
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://www.youtube.com/watch?v=Mu_2UnOdVHM&pp=ygU_IEF6dXJlIFZpcnR1YWwgTWFjaGluZXMsIFdpcmVzaGFyaywgYW5kIE5ldHdvcmsgU2VjdXJpdHkgR3JvdXBz)
 
 <h2>🤳Connect with me:</h2>
